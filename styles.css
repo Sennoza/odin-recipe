@@ -1,0 +1,14 @@
+a {
+    color: gold;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    color: crimson;
+}
+
+p, li {
+    font-size: 15px;
+    font-family: monospace;
+}
