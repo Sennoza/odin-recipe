@@ -1,13 +1,3 @@
-a {
-    color: gold;
-    font-size: 32px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-h3 {
-    color: crimson;
-}
-
 p, li {
     font-size: 15px;
     font-family: monospace;
@@ -22,4 +12,30 @@ body {
     margin: 60 400;
     border: 1px solid #d8d8d8;
     border-radius: 15px;
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
+    color: #d8d8d8;
+}
+
+.landing-gif {
+    margin: 20px auto;
+    border: 1px solid #d8d8d8;
+    border-radius: 10px;
+    display: block;
+}
+
+.link-box {
+    text-align: center;
+    margin: 10px;
+}
+
+.link {
+    color: #d62166;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 20px;
+    display: inline;
 }
